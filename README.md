@@ -1,4 +1,4 @@
-- 👋 Hi, I’m mohamed helmy 
+- 👋 Hi, I’m Mohamed Ahmed Helmy Attia 
 - 👀 I’m an AI and machine learning engineer. I'm so eager to learn more and develop my skills' level to be better everday, I love challenging problems.
 - 🌱 I’m currently learning NLP and Computer Vision as well as Web Scrapping
 - 💞️ I’m looking to collaborate on NLP, Computer Vision projects
